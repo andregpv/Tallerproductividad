@@ -1,0 +1,12 @@
+[
+  {
+    "id": "4ef0547d-b387-4d0a-b72a-ac364f7b2b3e",
+    "clientId": "62881ead-dc1f-4e1b-aa45-bc50dfb767a5",
+    "trajeId": "ae005b7d-66a0-49c1-9f3c-c255bd822482",
+    "fromDate": "2025-02-15",
+    "toDate": "2025-03-15",
+    "total": 450.0,
+    "paid": 4.0,
+    "status": "separado"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ae005b7d-66a0-49c1-9f3c-c255bd822482",
+    "name": "Santa Clásico",
+    "color": "Rojo",
+    "price": 450.0
+  },
+  {
+    "id": "ec27c646-175a-417f-9415-1c86d87e8de8",
+    "name": "Santa Azul",
+    "color": "Azul",
+    "price": 450.0
+  },
+  {
+    "id": "1c2b277f-56b1-4325-8cce-bc5405bbd662",
+    "name": "Grinch",
+    "color": "Verde",
+    "price": 400.0
+  },
+  {
+    "id": "b0e037eb-7d94-45f9-be57-e800c1211e00",
+    "name": "Duende",
+    "color": "Verde claro",
+    "price": 350.0
+  }
+]
